@@ -1,4 +1,4 @@
-# stopwatch tasks by Pawan Intawongsa (590545752)
+# stopwatch tasks by Pawan Intawongsa (5910545752)
 I ran the tasks on a MSI laptop , and got these result:
 
 Task | Time
