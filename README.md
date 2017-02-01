@@ -1,5 +1,6 @@
 # stopwatch tasks by Pawan Intawongsa (590545752)
 I ran the tasks on a MSI laptop , and got these result:
+
 Task | Time
 --------------------------------------|-------:
 Append 50,000 chars to String | 0.715762 sec
