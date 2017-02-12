@@ -34,7 +34,6 @@ public class AppendCharToStringBuilder implements Runnable {
 		}
 		// now create a String from the result, to be compatible with task 1.
 		result = builder.toString();
-
 	}
 
 	/**
